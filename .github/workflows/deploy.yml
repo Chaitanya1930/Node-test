@@ -26,7 +26,7 @@ jobs:
               git clone http://github.com/Chaitanya1930/Node-test.git
             fi
 
-            cd my-nodejs-app
+            cd Node-test
             git pull
 
             docker-compose down | true
