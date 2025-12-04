@@ -23,7 +23,7 @@ jobs:
             cd /home/ec2-user
 
             if [ ! -d "my-nodejs-app" ]; then
-              git clone http://github.com/chaitanya1930/Node-test.git
+              git clone http://github.com/Chaitanya1930/Node-test.git
             fi
 
             cd my-nodejs-app
